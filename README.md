@@ -6,6 +6,7 @@ Solving LeetCode Problems
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShlokAtal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShlokAtal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShlokAtal/LeetCode/tree/master/0020-valid-parentheses) |
 ## Stack
@@ -20,4 +21,12 @@ Solving LeetCode Problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShlokAtal/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ShlokAtal/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ShlokAtal/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
