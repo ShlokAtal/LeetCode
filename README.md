@@ -18,6 +18,7 @@ Solving LeetCode Problems
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShlokAtal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/ShlokAtal/LeetCode/tree/master/0075-sort-colors) |
+| [0941-valid-mountain-array](https://github.com/ShlokAtal/LeetCode/tree/master/0941-valid-mountain-array) |
 ## Trie
 |  |
 | ------- |
