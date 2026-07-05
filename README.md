@@ -16,6 +16,7 @@ Solving LeetCode Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShlokAtal/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ShlokAtal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/ShlokAtal/LeetCode/tree/master/0075-sort-colors) |
 | [0941-valid-mountain-array](https://github.com/ShlokAtal/LeetCode/tree/master/0941-valid-mountain-array) |
@@ -26,6 +27,7 @@ Solving LeetCode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShlokAtal/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShlokAtal/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
