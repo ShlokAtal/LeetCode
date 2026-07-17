@@ -42,4 +42,12 @@ Solving LeetCode Problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShlokAtal/LeetCode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShlokAtal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShlokAtal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
