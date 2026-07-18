@@ -43,6 +43,7 @@ Solving LeetCode Problems
 | [0013-roman-to-integer](https://github.com/ShlokAtal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ShlokAtal/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShlokAtal/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ShlokAtal/LeetCode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Solving LeetCode Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ShlokAtal/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ShlokAtal/LeetCode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
